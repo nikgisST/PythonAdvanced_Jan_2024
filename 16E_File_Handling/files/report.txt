@@ -1,0 +1,10 @@
+.html
+- - - home.html
+- - - index.html
+- - - js_is_nice.html
+.py
+- - - python_is_better.py
+.txt
+- - - file.txt
+- - - output1.txt
+- - - text.txt
